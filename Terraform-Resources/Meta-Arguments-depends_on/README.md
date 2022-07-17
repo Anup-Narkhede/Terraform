@@ -1,5 +1,6 @@
 # Terraform Resource Meta-Argument depends_on
-
+![App Screenshot](https://23nkt41oktaj11pvu09p7og1-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/step4.png)
+![App Screenshot](https://play.whizlabs.com/frontend/web/media/task_id_78/task_id_78_allocating_elastic_ip_and_associating_it_to_ec2_instance_17_53.png)
 ## Step-01: Introduction
 
 - Create 9 aws resources in a step by step manner
