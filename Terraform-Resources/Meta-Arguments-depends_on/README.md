@@ -1,5 +1,4 @@
 # Terraform Resource Meta-Argument depends_on
-![App Screenshot](https://play.whizlabs.com/frontend/web/media/task_id_78/task_id_78_allocating_elastic_ip_and_associating_it_to_ec2_instance_17_53.png)
 ![App Screenshot](https://docs.aws.amazon.com/vpc/latest/userguide/images/case-1_updated.png)
 
 ## Step-01: Introduction
