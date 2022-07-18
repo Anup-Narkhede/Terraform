@@ -228,6 +228,7 @@ terraform destroy
 rm -rf .terraform*
 rm -rf terraform.tfstate*
 ```
+![App Screenshot](https://github.com/Anup-Narkhede/Terraform/blob/main/Terraform-Resources/Meta-Arguments-depends_on/graph.svg)
 
 ## References
 
